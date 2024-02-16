@@ -37,7 +37,7 @@ Weiche O-Ringe (Die gleichen wie für die Standardtasten) machen die Geräusche 
 
 Die O-Ringe wurden bei mir an den Tastenkappen angebracht.
 
-Durch ein günstiges 6 mm dickes Platzdeckchen aus Filz für 3 €, 
+Durch ein günstiges 6 mm dickes Platzdeckchen aus Filz für 3 € welches sich leicht zuschneiden lässt, 
 
 lässt die Tastatur leicht verschieben ohne Einklappen des Fußes und reduziert die Anschlaglautstärke.
 
