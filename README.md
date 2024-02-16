@@ -14,6 +14,7 @@ Die Cherry Utility Software speichert die Werte im lesbaren json Text Format ab.
 
 ## Licht
 Licht ist nicht nur eine Spielerei, sondern hat einen immensen nutzen.
+
 So wird es bei mir als Orientierungshilfe für das schnelle finden der Tasten und Shortcuts benutzt.
 
 ## Weißes Licht
