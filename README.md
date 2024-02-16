@@ -40,6 +40,6 @@ Die O-Ringe wurden bei mir an den Tastenkappen angebracht.
 Ein günstiges 6 mm dickes Platzdeckchen aus Filz für 3 € lässt die Tastatur leicht verschieben ohne Einklappen des Fußes und reduziert die Anschlaglautstärke.
 
 ## Fazit
-Eigentlich sollte eine Tastatur wie diese beiden bei jedem Programm und Situation die korrekten Shortcuts anzeigen 
+Eigentlich sollte eine Tastatur wie diese beiden, bei jedem Programm und Situation, die korrekten Shortcuts anzeigen 
 
 und auch deren Unterschiede beim drücken von SHIFT, CTRL, ALT, ALT GR und FN berücksichtigen.
