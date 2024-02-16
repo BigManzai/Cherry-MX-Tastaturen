@@ -1,0 +1,1582 @@
+{
+   "ActionInfo" : [
+      {
+         "ActionContent" : {
+            "ActionKey" : 0,
+            "ActionMedia" : 0,
+            "ActionText" : ""
+         },
+         "ActionName" : "Aktion1",
+         "ActionType" : 1
+      }
+   ],
+   "CustomLightMode" : {
+      "CustomLightModeGroupIndex" : null,
+      "LightColorInfo" : [
+         [
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 199,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 199,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 199,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 199,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 199,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 199,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 199,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 199,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 181,
+               "Green" : 249,
+               "Red" : 121
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 181,
+               "Green" : 249,
+               "Red" : 121
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 181,
+               "Green" : 249,
+               "Red" : 121
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 254,
+               "Green" : 49,
+               "Red" : 49
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 242,
+               "Green" : 255,
+               "Red" : 24
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 182,
+               "Green" : 250,
+               "Red" : 122
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 254,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 41,
+               "Green" : 37,
+               "Red" : 254
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 242,
+               "Green" : 255,
+               "Red" : 24
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 242,
+               "Green" : 255,
+               "Red" : 24
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 254,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 254,
+               "Green" : 49,
+               "Red" : 49
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 254,
+               "Green" : 49,
+               "Red" : 49
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 254,
+               "Green" : 49,
+               "Red" : 49
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 181,
+               "Green" : 249,
+               "Red" : 121
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 254,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 254,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 254,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 241,
+               "Green" : 254,
+               "Red" : 23
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 254,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 253,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 254,
+               "Green" : 0,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 254,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 253,
+               "Red" : 0
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 98,
+               "Green" : 98,
+               "Red" : 253
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 181,
+               "Green" : 249,
+               "Red" : 121
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 242,
+               "Green" : 255,
+               "Red" : 24
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 242,
+               "Green" : 255,
+               "Red" : 24
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 242,
+               "Green" : 255,
+               "Red" : 24
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 242,
+               "Green" : 255,
+               "Red" : 24
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 242,
+               "Green" : 255,
+               "Red" : 24
+            },
+            {
+               "Alpha" : 195,
+               "Blue" : 0,
+               "Green" : 0,
+               "Red" : 0
+            }
+         ]
+      ]
+   },
+   "DPIStages" : null,
+   "DeviceBasicInfo" : {
+      "DevciesChipmodel" : "VS11K09A",
+      "DeviceNUMInfo" : "eevision_A_kb_001_20180108_ak60",
+      "DeviceName" : "keyboard",
+      "DeviceType" : "keyboard",
+      "PID" : 4103,
+      "SensorModel" : 0,
+      "VID" : 3141
+   },
+   "KeyList" : [
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097193,
+         "DefaultAssignment" : 2097193
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097210,
+         "DefaultAssignment" : 2097210
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097211,
+         "DefaultAssignment" : 2097211
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097212,
+         "DefaultAssignment" : 2097212
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097213,
+         "DefaultAssignment" : 2097213
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097214,
+         "DefaultAssignment" : 2097214
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097215,
+         "DefaultAssignment" : 2097215
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097216,
+         "DefaultAssignment" : 2097216
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097217,
+         "DefaultAssignment" : 2097217
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097218,
+         "DefaultAssignment" : 2097218
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097219,
+         "DefaultAssignment" : 2097219
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097220,
+         "DefaultAssignment" : 2097220
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097221,
+         "DefaultAssignment" : 2097221
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097222,
+         "DefaultAssignment" : 2097222
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097223,
+         "DefaultAssignment" : 2097223
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097224,
+         "DefaultAssignment" : 2097224
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 10486528,
+         "DefaultAssignment" : 10486528
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 3183105,
+         "DefaultAssignment" : 3183105
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 3192320,
+         "DefaultAssignment" : 3192320
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 3198208,
+         "DefaultAssignment" : 3198208
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 3192064,
+         "DefaultAssignment" : 3192064
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097205,
+         "DefaultAssignment" : 2097205
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097182,
+         "DefaultAssignment" : 2097182
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097183,
+         "DefaultAssignment" : 2097183
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097184,
+         "DefaultAssignment" : 2097184
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097185,
+         "DefaultAssignment" : 2097185
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097186,
+         "DefaultAssignment" : 2097186
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097187,
+         "DefaultAssignment" : 2097187
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097188,
+         "DefaultAssignment" : 2097188
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097189,
+         "DefaultAssignment" : 2097189
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097190,
+         "DefaultAssignment" : 2097190
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097191,
+         "DefaultAssignment" : 2097191
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097197,
+         "DefaultAssignment" : 2097197
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097198,
+         "DefaultAssignment" : 2097198
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097194,
+         "DefaultAssignment" : 2097194
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097225,
+         "DefaultAssignment" : 2097225
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097226,
+         "DefaultAssignment" : 2097226
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097227,
+         "DefaultAssignment" : 2097227
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097235,
+         "DefaultAssignment" : 2097235
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097236,
+         "DefaultAssignment" : 2097236
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097237,
+         "DefaultAssignment" : 2097237
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097238,
+         "DefaultAssignment" : 2097238
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097195,
+         "DefaultAssignment" : 2097195
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097172,
+         "DefaultAssignment" : 2097172
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097178,
+         "DefaultAssignment" : 2097178
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097160,
+         "DefaultAssignment" : 2097160
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097173,
+         "DefaultAssignment" : 2097173
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097175,
+         "DefaultAssignment" : 2097175
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097180,
+         "DefaultAssignment" : 2097180
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097176,
+         "DefaultAssignment" : 2097176
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097164,
+         "DefaultAssignment" : 2097164
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097170,
+         "DefaultAssignment" : 2097170
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097171,
+         "DefaultAssignment" : 2097171
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097199,
+         "DefaultAssignment" : 2097199
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097200,
+         "DefaultAssignment" : 2097200
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097201,
+         "DefaultAssignment" : 2097201
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097228,
+         "DefaultAssignment" : 2097228
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097229,
+         "DefaultAssignment" : 2097229
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097230,
+         "DefaultAssignment" : 2097230
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097247,
+         "DefaultAssignment" : 2097247
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097248,
+         "DefaultAssignment" : 2097248
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097249,
+         "DefaultAssignment" : 2097249
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097152,
+         "DefaultAssignment" : 2097152
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097209,
+         "DefaultAssignment" : 2097209
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097156,
+         "DefaultAssignment" : 2097156
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097174,
+         "DefaultAssignment" : 2097174
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097159,
+         "DefaultAssignment" : 2097159
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097161,
+         "DefaultAssignment" : 2097161
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097162,
+         "DefaultAssignment" : 2097162
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097163,
+         "DefaultAssignment" : 2097163
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097165,
+         "DefaultAssignment" : 2097165
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097166,
+         "DefaultAssignment" : 2097166
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097167,
+         "DefaultAssignment" : 2097167
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097203,
+         "DefaultAssignment" : 2097203
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097204,
+         "DefaultAssignment" : 2097204
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097192,
+         "DefaultAssignment" : 2097192
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097244,
+         "DefaultAssignment" : 2097244
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097245,
+         "DefaultAssignment" : 2097245
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097246,
+         "DefaultAssignment" : 2097246
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097152,
+         "DefaultAssignment" : 2097152
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097152,
+         "DefaultAssignment" : 2097152
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097152,
+         "DefaultAssignment" : 2097152
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097152,
+         "DefaultAssignment" : 2097152
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097152,
+         "DefaultAssignment" : 2097152
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097664,
+         "DefaultAssignment" : 2097664
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097181,
+         "DefaultAssignment" : 2097181
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097179,
+         "DefaultAssignment" : 2097179
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097158,
+         "DefaultAssignment" : 2097158
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097177,
+         "DefaultAssignment" : 2097177
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097157,
+         "DefaultAssignment" : 2097157
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097169,
+         "DefaultAssignment" : 2097169
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097168,
+         "DefaultAssignment" : 2097168
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097206,
+         "DefaultAssignment" : 2097206
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097207,
+         "DefaultAssignment" : 2097207
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097208,
+         "DefaultAssignment" : 2097208
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2105344,
+         "DefaultAssignment" : 2105344
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097234,
+         "DefaultAssignment" : 2097234
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097241,
+         "DefaultAssignment" : 2097241
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097242,
+         "DefaultAssignment" : 2097242
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097243,
+         "DefaultAssignment" : 2097243
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097152,
+         "DefaultAssignment" : 2097152
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097152,
+         "DefaultAssignment" : 2097152
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097252,
+         "DefaultAssignment" : 2097252
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097152,
+         "DefaultAssignment" : 2097152
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097202,
+         "DefaultAssignment" : 2097202
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097408,
+         "DefaultAssignment" : 2097408
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2099200,
+         "DefaultAssignment" : 2099200
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2098176,
+         "DefaultAssignment" : 2098176
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097196,
+         "DefaultAssignment" : 2097196
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2113536,
+         "DefaultAssignment" : 2113536
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 10486016,
+         "DefaultAssignment" : 10486016
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097253,
+         "DefaultAssignment" : 2097253
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2101248,
+         "DefaultAssignment" : 2101248
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097232,
+         "DefaultAssignment" : 2097232
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097233,
+         "DefaultAssignment" : 2097233
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097231,
+         "DefaultAssignment" : 2097231
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097250,
+         "DefaultAssignment" : 2097250
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097251,
+         "DefaultAssignment" : 2097251
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097240,
+         "DefaultAssignment" : 2097240
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2097239,
+         "DefaultAssignment" : 2097239
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 13672961,
+         "DefaultAssignment" : 13672961
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 13672962,
+         "DefaultAssignment" : 13672962
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 13672963,
+         "DefaultAssignment" : 13672963
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 13672964,
+         "DefaultAssignment" : 13672964
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 13672965,
+         "DefaultAssignment" : 13672965
+      },
+      {
+         "ActionLink" : null,
+         "ActionLinkIndex" : null,
+         "Assignment" : 2129920,
+         "DefaultAssignment" : 2129920
+      }
+   ],
+   "LightInfo" : {
+      "Blue" : 242,
+      "DeepsleepTimeH" : 0,
+      "DeepsleepTimeL" : 0,
+      "Distime" : 0,
+      "FunPointColorB" : 0,
+      "FunPointColorG" : 0,
+      "FunPointColorR" : 0,
+      "Fx" : 0,
+      "Green" : 255,
+      "Light" : 3,
+      "LightOpenFlag" : 0,
+      "MultiColor" : 0,
+      "PairPointColorB" : 0,
+      "PairPointColorG" : 0,
+      "PairPointColorR" : 0,
+      "Red" : 24,
+      "SelectItem" : 21,
+      "Setdelay" : 0,
+      "Setlock" : 0,
+      "Speed" : 3,
+      "SuspendTimeH" : 0,
+      "SuspendTimeL" : 0,
+      "WorkModePointColorB" : 0,
+      "WorkModePointColorG" : 0,
+      "WorkModePointColorR" : 0
+   },
+   "LightList" : null,
+   "MacroInfo" : null,
+   "SystemStages" : {
+      "Key6Flag" : 1,
+      "Repeat" : 16,
+      "RepeatDelay" : 0,
+      "ReportSelectItem" : 2,
+      "WFlag" : 0,
+      "WinFlag" : 0
+   }
+}
+
